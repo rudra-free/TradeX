@@ -1,0 +1,1 @@
+Each  controller for each table

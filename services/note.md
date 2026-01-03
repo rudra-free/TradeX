@@ -1,0 +1,1 @@
+query logic add 
